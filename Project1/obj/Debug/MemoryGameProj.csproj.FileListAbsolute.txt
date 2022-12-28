@@ -1,0 +1,24 @@
+C:\Study\C#\Assignment5\C22 Ex05 Roi 305382814 Shahar 204593594\Project1\bin\Debug\Project1.exe.config
+C:\Study\C#\Assignment5\C22 Ex05 Roi 305382814 Shahar 204593594\Project1\bin\Debug\Project1.exe
+C:\Study\C#\Assignment5\C22 Ex05 Roi 305382814 Shahar 204593594\Project1\bin\Debug\Project1.pdb
+C:\Study\C#\Assignment5\C22 Ex05 Roi 305382814 Shahar 204593594\Project1\obj\Debug\MemoryGameProj.csproj.AssemblyReference.cache
+C:\Study\C#\Assignment5\C22 Ex05 Roi 305382814 Shahar 204593594\Project1\obj\Debug\MemoryGameProj.csproj.SuggestedBindingRedirects.cache
+C:\Study\C#\Assignment5\C22 Ex05 Roi 305382814 Shahar 204593594\Project1\obj\Debug\MemoryGameProj.MemoryGameBoard.resources
+C:\Study\C#\Assignment5\C22 Ex05 Roi 305382814 Shahar 204593594\Project1\obj\Debug\MemoryGameProj.MemoryGameSettings.resources
+C:\Study\C#\Assignment5\C22 Ex05 Roi 305382814 Shahar 204593594\Project1\obj\Debug\Project1.Properties.Resources.resources
+C:\Study\C#\Assignment5\C22 Ex05 Roi 305382814 Shahar 204593594\Project1\obj\Debug\MemoryGameProj.csproj.GenerateResource.cache
+C:\Study\C#\Assignment5\C22 Ex05 Roi 305382814 Shahar 204593594\Project1\obj\Debug\MemoryGameProj.csproj.CoreCompileInputs.cache
+C:\Study\C#\Assignment5\C22 Ex05 Roi 305382814 Shahar 204593594\Project1\obj\Debug\Project1.exe
+C:\Study\C#\Assignment5\C22 Ex05 Roi 305382814 Shahar 204593594\Project1\obj\Debug\Project1.pdb
+C:\Users\שחר כהן\Desktop\‏‏תיקיה חדשה\EX05 Roi & Shahar\C22 Ex05 Roi 305382814 Shahar 204593594\Project1\bin\Debug\Project1.exe.config
+C:\Users\שחר כהן\Desktop\‏‏תיקיה חדשה\EX05 Roi & Shahar\C22 Ex05 Roi 305382814 Shahar 204593594\Project1\bin\Debug\Project1.exe
+C:\Users\שחר כהן\Desktop\‏‏תיקיה חדשה\EX05 Roi & Shahar\C22 Ex05 Roi 305382814 Shahar 204593594\Project1\bin\Debug\Project1.pdb
+C:\Users\שחר כהן\Desktop\‏‏תיקיה חדשה\EX05 Roi & Shahar\C22 Ex05 Roi 305382814 Shahar 204593594\Project1\obj\Debug\MemoryGameProj.csproj.AssemblyReference.cache
+C:\Users\שחר כהן\Desktop\‏‏תיקיה חדשה\EX05 Roi & Shahar\C22 Ex05 Roi 305382814 Shahar 204593594\Project1\obj\Debug\MemoryGameProj.csproj.SuggestedBindingRedirects.cache
+C:\Users\שחר כהן\Desktop\‏‏תיקיה חדשה\EX05 Roi & Shahar\C22 Ex05 Roi 305382814 Shahar 204593594\Project1\obj\Debug\MemoryGameProj.MemoryGameBoard.resources
+C:\Users\שחר כהן\Desktop\‏‏תיקיה חדשה\EX05 Roi & Shahar\C22 Ex05 Roi 305382814 Shahar 204593594\Project1\obj\Debug\MemoryGameProj.MemoryGameSettings.resources
+C:\Users\שחר כהן\Desktop\‏‏תיקיה חדשה\EX05 Roi & Shahar\C22 Ex05 Roi 305382814 Shahar 204593594\Project1\obj\Debug\Project1.Properties.Resources.resources
+C:\Users\שחר כהן\Desktop\‏‏תיקיה חדשה\EX05 Roi & Shahar\C22 Ex05 Roi 305382814 Shahar 204593594\Project1\obj\Debug\MemoryGameProj.csproj.GenerateResource.cache
+C:\Users\שחר כהן\Desktop\‏‏תיקיה חדשה\EX05 Roi & Shahar\C22 Ex05 Roi 305382814 Shahar 204593594\Project1\obj\Debug\MemoryGameProj.csproj.CoreCompileInputs.cache
+C:\Users\שחר כהן\Desktop\‏‏תיקיה חדשה\EX05 Roi & Shahar\C22 Ex05 Roi 305382814 Shahar 204593594\Project1\obj\Debug\Project1.exe
+C:\Users\שחר כהן\Desktop\‏‏תיקיה חדשה\EX05 Roi & Shahar\C22 Ex05 Roi 305382814 Shahar 204593594\Project1\obj\Debug\Project1.pdb

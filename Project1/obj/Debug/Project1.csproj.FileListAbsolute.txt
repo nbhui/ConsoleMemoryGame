@@ -1,0 +1,12 @@
+C:\Study\C#\Assignment5\C22 Ex05 Roi 305382814 Shahar 204593594\Project1\obj\Debug\Project1.csproj.AssemblyReference.cache
+C:\Study\C#\Assignment5\C22 Ex05 Roi 305382814 Shahar 204593594\Project1\obj\Debug\Project1.csproj.SuggestedBindingRedirects.cache
+C:\Study\C#\Assignment5\C22 Ex05 Roi 305382814 Shahar 204593594\Project1\obj\Debug\Project1.csproj.GenerateResource.cache
+C:\Study\C#\Assignment5\C22 Ex05 Roi 305382814 Shahar 204593594\Project1\obj\Debug\Project1.csproj.CoreCompileInputs.cache
+C:\Study\C#\Assignment5\C22 Ex05 Roi 305382814 Shahar 204593594\Project1\obj\Debug\Project1.Properties.Resources.resources
+C:\Study\C#\Assignment5\C22 Ex05 Roi 305382814 Shahar 204593594\Project1\bin\Debug\Project1.exe.config
+C:\Study\C#\Assignment5\C22 Ex05 Roi 305382814 Shahar 204593594\Project1\bin\Debug\Project1.exe
+C:\Study\C#\Assignment5\C22 Ex05 Roi 305382814 Shahar 204593594\Project1\bin\Debug\Project1.pdb
+C:\Study\C#\Assignment5\C22 Ex05 Roi 305382814 Shahar 204593594\Project1\obj\Debug\Project1.exe
+C:\Study\C#\Assignment5\C22 Ex05 Roi 305382814 Shahar 204593594\Project1\obj\Debug\Project1.pdb
+C:\Study\C#\Assignment5\C22 Ex05 Roi 305382814 Shahar 204593594\Project1\obj\Debug\Project1.MemoryGameSettings.resources
+C:\Study\C#\Assignment5\C22 Ex05 Roi 305382814 Shahar 204593594\Project1\obj\Debug\Project1.MemoryGameBoard.resources
